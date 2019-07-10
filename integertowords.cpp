@@ -2,11 +2,7 @@
 #include<vector>
 #include<cstring>
  using namespace std;
- 
- // -----------------------------------------------------
- // This is a functional problem. Do not modify main
- // This function takes as input an integer num
- // It should return required output.
+
   vector<string> lessthan20={"","One","Two","Three",  "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
  	 vector<string> tens={"","Ten","Twenty","Thirty","Forty","Fifty","Sixty","Seventy","Eighty","Ninety"};
  	 vector<string> thousands={"","Thousand","Million","Billion"};
