@@ -1,9 +1,9 @@
 #include<iostream>
- #include<vector>
+#include<vector>
 #include<queue>
- #include<string>
+#include<string>
 #include<algorithm>
- using namespace std;
+using namespace std;
 
  vector<int> deckRevealedIncreasing(vector<int>& nums) {
     vector<int> res(nums.size(),0);
